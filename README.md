@@ -1,7 +1,8 @@
 Python version	Core Tools version
+
 Python 3.8	    version 3.x
-Python 3.6
-Python 3.7     	Version 2.7.1846 or a later version
+
+Python 3.6/3.7  Version 2.7.1846 or a later version
 
 Prerequisite check
 In a terminal or command window, run func --version to check that the Azure Functions Core Tools are version 2.7.1846 or later.
