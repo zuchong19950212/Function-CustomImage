@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\4_Github\Function-CustomImage\venv"
+VIRTUAL_ENV="D:\4_Github\Function-CustomImage\newLocal\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
